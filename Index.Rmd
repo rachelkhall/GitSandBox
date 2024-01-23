@@ -1,6 +1,6 @@
 ---
 title: "Initial web page posting"
-author: "Rachel Hall"
+author: "rachelkhall"
 date: "2024-01-23"
 output:
   html_document: default
